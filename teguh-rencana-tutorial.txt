@@ -1,7 +1,12 @@
 RENCANA MEMBUAT KONTEN TUTORIAL BERMANFAAT
 
 -PHP
+  ~ Code igniter & Laravel
 -PASCAL
+  ~ Delphi
 -JAVA
+  ~ Android dan Spring Boot
 -PYHTON
+  ~ Ulo Dan Djanggo
 -JAVASCRIPT
+  ~ Es6 dan Ulo
